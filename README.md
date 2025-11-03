@@ -26,10 +26,6 @@ Place the LDR near the Dino path on the screen and the servo above the spacebar.
 ## 🧠 Working
 - When a cactus appears → screen darkens → LDR value drops  
 - Arduino detects the drop and activates servo → Dino jumps automatically!
-
-## 📸 Images
-Put setup photos here: `/images`
-
 ---
 
 Made by **Sam Shoni Zacharia**
